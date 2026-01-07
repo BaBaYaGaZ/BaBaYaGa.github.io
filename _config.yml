@@ -46,11 +46,9 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
+  enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
 prismjs:
   preprocess: true
   line_number: true
@@ -103,9 +101,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
 
