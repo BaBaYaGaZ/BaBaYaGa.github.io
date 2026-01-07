@@ -104,4 +104,8 @@ theme: landscape
 deploy:
   type: ''
 
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
 
